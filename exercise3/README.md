@@ -18,10 +18,10 @@ LEXICAL FORM | SURFACE FORM | ENGLISH GLOSS
 
 Surface form to Lexical Form:
 ```console
-foma -l swahilli2.xsft -e "apply up"
+$foma -l swahilli2.xsft -e "apply up"
 ```
 
 Lexical form to Surface Form:
 ```console
-foma -l swahilli2.xsft -e "apply up"
+$foma -l swahilli2.xsft -e "apply up"
 ```
