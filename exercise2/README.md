@@ -29,7 +29,7 @@
 
 
 
-## 2 The Foma Script `somali.xsft`
+## 2. The Foma Script `somali.xsft`
 
 To run to transduce down:
 ```console
@@ -41,4 +41,17 @@ To transduce all the words in the `words.txt`:
 $ cat words.txt | foma -l somali.xsft -e "apply down" -p > output.txt 
 ```
 
-3
+## 3. Test Cases:
+
+There are two lists of test cases: 
+
+- Underlying representations to surface respresentations: 
+```console
+$ cat underlying_representations.txt | foma -l somali.xsft -e "apply down" -p > output.txt 
+```
+
+- Surface Respresentations to underlying representations : 
+```console
+$ cat surface_representations.txt | foma -l somali.xsft -e "apply up" -p > output.txt 
+```
+
