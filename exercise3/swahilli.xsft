@@ -1,4 +1,4 @@
-read lexc swahilli2.lexc
+read lexc swahilli.lexc
 
 define Lexicon;
 
