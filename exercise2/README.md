@@ -38,7 +38,7 @@ $ foma -l somali.xsft -e "apply down"
 
 To transduce all the words in the `words.txt`:
 ```console
-$ cat words.txt | foma -l somali.xsft -e "apply down" -p > output.txt 
+$ cat underlying_representations.txt | foma -l somali.xsft -e "apply down" -p > output.txt 
 ```
 
 ## 3. Test Cases:
