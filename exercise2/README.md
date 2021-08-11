@@ -1,20 +1,17 @@
 # Exercise 2: FST for Somali Morphophonology
 
 ## 1.A List of posited root words 
-|          |         |         |      |
-| ---------| --------|---------|-------------
-| `daar`   | `gees`  | `laf`   | `lug`   | 
-| `naag`   | `tib`   | `sab`   | `bad`   |
-| `d͡ʒid`   | `feeɖ`  | `ʕiir`  | `ʔul`   |
-| `bil`    | `meel`  | `kaliil`| `najl`  |
-| `sun`    | `laan`  | `sin`   | `dan`   | 
-| `daan`   | `saan`  | `nirig` | `gaβaɖ` | 
-| `hoglo`  | `bagal` | `wah̵ar` | `irbad`|
-| `kefed`  | `d͡ʒilin`| `bohol` | `jirid`|
-| `ʔaajad` | `gaʕan` | `ʔinan` | `sug` |
-| `kab`    | `sid`   | `dil`   | `gan` |
-| `tun`    | `arag`  | `gudub` | `qosol` |
-| `hadal`  | -       |  -      | -      |
+|          |         |         |         |        |
+| ---------| --------|---------|---------|---------|
+| `daar`   | `gees`  | `laf`   | `lug`   |  `kab`  | 
+| `naag`   | `tib`   | `sab`   | `bad`   |  `sid`  |
+| `d͡ʒid`   | `feeɖ`  | `ʕiir`  | `ʔul`   | `dil`  |
+| `bil`    | `meel`  | `kaliil`| `najl`  | `gan`  |
+| `sun`    | `laan`  | `sin`   | `dan`   |  `tun`  |
+| `daan`   | `saan`  | `nirig` | `gaβaɖ` |  `arag` |
+| `hoglo`  | `bagal` | `wah̵ar` | `irbad` |  `gudub`|
+| `kefed`  | `d͡ʒilin`| `bohol` | `jirid` | `qosol` |
+| `ʔaajad` | `gaʕan` | `ʔinan` | `sug`   | `hadal` |
 
 
 ## 1.B Underlying representations for each suffix
