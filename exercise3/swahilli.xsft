@@ -1,0 +1,5 @@
+read lexc swahilli2.lexc
+
+define Lexicon;
+
+regex Lexicon;
