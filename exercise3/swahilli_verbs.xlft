@@ -1,0 +1,5 @@
+read lexc swahilli_verbs.lexc
+
+define Lexicon;
+
+regex Lexicon;
